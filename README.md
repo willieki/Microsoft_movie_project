@@ -1,10 +1,8 @@
 # MICROSOFT MOVIE STUDIO PROJECT
 ## 1. INTRODUCTION
-<img src = 'Images/samuel-regan-asante-wMkaMXTJjlQ-unsplash-1.jpg'>
-<img src = "Images/gr-stocks-q8P8YoR6erg-unsplash.jpg">
+<img src = 'Images/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg'>
 
 Photo from  <a href="https://unsplash.com/photos/wMkaMXTJjlQ">Unsplash</a>
-
 
 ### 1.1 Project Overview
 To use Explanatory Data Analysis(EDA) to generate actionable insights to the head of Microsoft's new movie studio, that he/she can use to decide what type of films to create.
@@ -106,29 +104,29 @@ The 5 most profitable languages are: Thai, Telegu, English, Hungarian and Hindi.
 
 We have positive correlation between all the variables but varying in terms of strength.
 
-###### Variables with strong positive correlation are:
+##### Variables with strong positive correlation are:
 
-production_budget and profit with a correlation of 0.662025.
+1.production_budget and profit with a correlation of 0.662025.
 
-popularity and production_budget with a correlation of 0.527787.
+2.popularity and production_budget with a correlation of 0.527787.
 
-popularity and profit with a correlation of 0.521680.
+3.popularity and profit with a correlation of 0.521680.
 
-###### Variables with weak positive correlation are:
+##### Variables with weak positive correlation are:
 
-averagerating and runtime_minutes with a correlation of 0.405544.
+1. averagerating and runtime_minutes with a correlation of 0.405544.
 
-production_budget and runtime_minutes with a correlation of 0.354355.
+2. production_budget and runtime_minutes with a correlation of 0.354355.
 
-popularity and runtime_minutes with a correlation of 0.318119.
+3. popularity and runtime_minutes with a correlation of 0.318119.
 
-averagerating and popularity with a correlation of 0.294996.
+4. averagerating and popularity with a correlation of 0.294996.
 
-runtime_minutes and profit with a correlation of 0.276521.
+5. runtime_minutes and profit with a correlation of 0.276521.
 
-averagerating and profit with a correlation of 0.258633.
+6. averagerating and profit with a correlation of 0.258633.
 
-averagerating and production_budget with a correlation of 0.144862.
+7. averagerating and production_budget with a correlation of 0.144862.
 
 #### 6.4.1. Relationship Between Production Budget and Total gross
 
@@ -160,23 +158,12 @@ Yes. There a positive correlation between production budget and profit. This imp
 4. For a successful new movie studio, Microsoft should invest in both production budget and marketing. This approach will enhance film quality and promotes broader audience reach, increasing the likelihood of success and profitability.
 
 
+## GUIDE
 
+The data used for the project can be found here https://github.com/willieki/Microsoft_movie_project/tree/master/DATA
 
+The images from EDA can be found here https://github.com/willieki/Microsoft_movie_project/tree/master/Images
 
+The notebook that contains the project can be found here https://github.com/willieki/Microsoft_movie_project/blob/master/student.ipynb
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The presentation for this project can be found here https://github.com/willieki/Microsoft_movie_project/blob/master/presentation.pdf
