@@ -1,6 +1,6 @@
 # MICROSOFT MOVIE STUDIO PROJECT
 ## 1. INTRODUCTION
-<img src = 'denise-jans-tV80374iytg-unsplash.jpg'>
+<img src = 'Images/denise-jans-tV80374iytg-unsplash.jpg'>
 
 Photo from  <a href="https://unsplash.com/photos/tV80374iytg">Unsplash</a> By Denise Jans
 
