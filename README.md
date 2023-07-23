@@ -128,7 +128,7 @@ We have positive correlation between all the variables but varying in terms of s
 
 7. averagerating and production_budget with a correlation of 0.144862.
 
-#### 6.4.1. Relationship Between Production Budget and Total gross
+#### 6.4.2. Relationship Between Production Budget and Total gross
 
 
 <img src = 'Images/production budget vs profit.png'>
