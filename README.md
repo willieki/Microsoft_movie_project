@@ -1,8 +1,8 @@
 # MICROSOFT MOVIE STUDIO PROJECT
 ## 1. INTRODUCTION
-<img src = 'Images/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg'>
+<img src = 'denise-jans-tV80374iytg-unsplash.jpg'>
 
-Photo from  <a href="https://unsplash.com/photos/wMkaMXTJjlQ">Unsplash</a>
+Photo from  <a href="https://unsplash.com/photos/tV80374iytg">Unsplash</a> By Denise Jans
 
 ### 1.1 Project Overview
 To use Explanatory Data Analysis(EDA) to generate actionable insights to the head of Microsoft's new movie studio, that he/she can use to decide what type of films to create.
